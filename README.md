@@ -65,7 +65,7 @@
 <a href="https://dev.to/xtawhidx" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/14627873/navaneeth-k-m" target="_blank">
+<a href="https://stackoverflow.com/users/14627873/xtawhidx" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -80,7 +80,7 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/XTawhidX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
