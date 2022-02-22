@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Navaneeth, a full-time full-stack developer 👨‍💻 working peacefully since 2019 🚀</div>  
+### <div align="center">I'm Tawhid, a full-time full-stack developer 👨‍💻 working peacefully since 2019 🚀</div>  
   
 
 <br/>  
@@ -56,13 +56,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/navaneethkm004" target="_blank">
+<a href="https://github.com/XTawhidX" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/navaneethkm004" target="_blank">
+<a href="https://twitter.com/xtawhidx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/navaneethkm" target="_blank">
+<a href="https://dev.to/xtawhidx" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/14627873/navaneeth-k-m" target="_blank">
